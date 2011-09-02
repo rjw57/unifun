@@ -34,7 +34,7 @@ func main() {
 	// output the result
 	font, err := uctricks.FontNamed(*fontname)
 	if err != nil {
-		fmt.Fprintf(os.Stderr, "No such font: %v", *fontname)
+		fmt.Fprintf(os.Stderr, "No such font: %v\n", *fontname)
 		os.Exit(1)
 	}
 	fmt.Print(font.Apply(s))
