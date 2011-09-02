@@ -5,7 +5,9 @@ Sometimes it is fun to abuse Unicode. For example, the phrase "The Quick Brown
 Fox jumped over the Lazy Dog" can be rendered using only Unicode codepoints as:
 
 > 𝔗𝔥𝔢 𝔔𝔲𝔦𝔠𝔨 𝔅𝔯𝔬𝔴𝔫 𝔉𝔬𝔵 𝔧𝔲𝔪𝔭𝔢𝔡 𝔬𝔳𝔢𝔯 𝔱𝔥𝔢 𝔏𝔞𝔷𝔶 𝔇𝔬𝔤 (Blackletter)
+>
 > 𝕿𝖍𝖊 𝕼𝖚𝖎𝖈𝖐 𝕭𝖗𝖔𝖜𝖓 𝕱𝖔𝖝 𝖏𝖚𝖒𝖕𝖊𝖉 𝖔𝖛𝖊𝖗 𝖙𝖍𝖊 𝕷𝖆𝖟𝖞 𝕯𝖔𝖌 (Blackletter bold)
+>
 > ɓo◖ ʎzɐ˥ ǝɥʇ ɹǝʌo pǝdɯnɾ xoℲ uʍoɹ𐐒 ʞɔınΌ ǝɥ⊥ (Fipped)
 
 The `unifun` program allows you to convert text from vanilla Latin characters
