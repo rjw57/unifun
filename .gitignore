@@ -1,0 +1,4 @@
+.*.swp
+_obj/
+*.6
+cmd/unifun
